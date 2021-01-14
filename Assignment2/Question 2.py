@@ -25,4 +25,3 @@ if inp_val == res_val:
     print('The original and reverse number is the same')
 else:
     print('The original and reverse number is not same')
- 
